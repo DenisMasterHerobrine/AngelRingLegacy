@@ -29,9 +29,9 @@ Well, there are some quirks with that, but I'll try to maintain this project as 
 | 1.19.3 | ⚙️ Work In Progress | ⚙️ Work In Progress | ⚙️ Work In Progress |
 | 1.19 - 1.19.2 | ⚙️ Work In Progress | ⚙️ Work In Progress | ⚙️ Work In Progress |
 | 1.18.x | ⚙️ Work In Progress | ⚙️ Work In Progress | ❔ Unknown, Not Decided |
-| 1.17.x | ✅ Available (v1.4.0) | ❌ Not Planned | ❌ Not Planned |
+| 1.17.x | ✅ Available (v1.4.x) | ❌ Not Planned | ❌ Not Planned |
 | 1.16.x | ✅ Available (v1.3.x) | ⚙️ Work In Progress | ❔ Unknown, Not Decided |
-| 1.15.x | ✅ Available (v1.2.0) | ❌ Not Planned | ❌ Not Planned |
+| 1.15.x | ✅ Available (v1.2.x) | ❌ Not Planned | ❌ Not Planned |
 | 1.14.x | ✅ Available (v1.1.x) | ❌ Not Planned | ❌ Not Planned |
 | 1.12.2 | ❔ Unknown, Not Decided | ❌ Not Planned | ❌ Not Planned |
 | 1.7.10 | ❔ Unknown, Not Decided | ❌ Not Planned | ❌ Not Planned |
